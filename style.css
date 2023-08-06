@@ -11,7 +11,7 @@
 	grid-area: search;
 	grid-template:
 		"search" 60px
-		/ 420px;
+		/ 320px;
 	justify-content: center;
 	align-content: center;
 	justify-items: stretch;
